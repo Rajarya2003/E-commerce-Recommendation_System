@@ -1,7 +1,7 @@
 
 
 
-![E-commerce-Recommendation_System Illustration](https://github.com/Rajarya2003/E-commerce-Recommendation_System/blob/main/image.webp)
+![E-commerce-Recommendation_System Illustration](https://github.com/Rajarya2003/E-commerce-Recommendation_System/blob/main/Recommender%20sytem.webp)
 
 
 # Recommendation System Pipeline
